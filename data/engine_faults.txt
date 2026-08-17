@@ -1,0 +1,30 @@
+Engine Fault Diagnosis
+
+Fault: Engine overheating
+
+Possible causes:
+- Low coolant
+- Cooling fan failure
+- Thermostat failure
+- Radiator blockage
+
+Recommended checks:
+- Check coolant level
+- Check cooling fan operation
+- Inspect thermostat
+- Inspect radiator
+
+
+Fault: Engine misfire
+
+Possible causes:
+- Faulty spark plug
+- Ignition coil failure
+- Fuel injector problem
+- Air-fuel mixture issue
+
+Recommended checks:
+- Inspect spark plugs
+- Check ignition coils
+- Check injector operation
+- Review engine sensor data

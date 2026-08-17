@@ -1,0 +1,28 @@
+Vehicle Sensor Fault Diagnosis
+
+Fault: Abnormal transmission temperature
+
+Possible causes:
+- Low transmission fluid
+- Excessive transmission load
+- Transmission cooling system problem
+- Temperature sensor failure
+
+Recommended checks:
+- Verify transmission fluid level
+- Monitor transmission temperature
+- Inspect transmission cooling system
+- Compare sensor readings with expected temperature
+
+
+Fault: Abnormal engine coolant temperature
+
+Possible causes:
+- Faulty temperature sensor
+- Wiring problem
+- Sensor calibration issue
+
+Recommended checks:
+- Inspect sensor wiring
+- Compare sensor reading with reference temperature
+- Check sensor calibration

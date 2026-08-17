@@ -1,0 +1,7 @@
+openai
+pinecone
+langgraph
+fastapi
+uvicorn
+python-dotenv
+pydantic

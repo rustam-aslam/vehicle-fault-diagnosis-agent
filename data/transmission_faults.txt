@@ -1,0 +1,29 @@
+Transmission Fault Diagnosis
+
+Fault: Transmission slipping during acceleration
+
+Possible causes:
+- Low transmission fluid
+- Worn clutch components
+- Hydraulic pressure problems
+- Faulty transmission solenoid
+
+Recommended checks:
+- Check transmission fluid level
+- Check transmission fluid condition
+- Monitor hydraulic pressure
+- Check transmission solenoid operation
+
+
+Fault: Harsh shifting
+
+Possible causes:
+- Low transmission fluid
+- Faulty shift solenoid
+- Incorrect transmission calibration
+
+Recommended checks:
+- Check transmission fluid level
+- Read transmission diagnostic codes
+- Check shift solenoid operation
+- Verify calibration parameters
