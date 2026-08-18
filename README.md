@@ -206,6 +206,3 @@ Diagnostic Response
 ```
 
 This approach uses the language model primarily for reasoning and synthesis while relying on the retrieved documentation to provide the technical knowledge.
-
-* Git
-* GitHub
